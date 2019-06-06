@@ -1,0 +1,25 @@
+{
+  "name": "task_29.6_Mongoose-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^5.5.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Handzia/task-29.6_Mongoose-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Handzia/task-29.6_Mongoose-learning/issues"
+  },
+  "homepage": "https://github.com/Handzia/task-29.6_Mongoose-learning#readme"
+}
